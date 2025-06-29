@@ -24,3 +24,5 @@ It includes data loading, training, prediction, and visualization — without us
   <img src="./Confusion_matrix.png" alt="Confusion Matrix Plot" width="500"/>
 </p>
 
+Accuracy: 0.9413793103448276
+
